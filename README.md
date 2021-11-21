@@ -1,4 +1,7 @@
 # Stephen Dillon
+<img width="608" alt="Screen Shot 2021-10-24 at 5 46 48 PM" src="https://user-images.githubusercontent.com/94771301/142748705-7ce4c0e6-7b28-4664-ba51-79f513e24f50.png">
+
+
 
 This website is a autobiogrpahy/CV.  Washington DC, 20052 | (551)-556-8627 | dillonstephen@gwu.edu 
 
@@ -9,13 +12,17 @@ This website is a autobiogrpahy/CV.  Washington DC, 20052 | (551)-556-8627 | dil
 
 **George Washington University, The Colleges of Arts and Sciences Bachelors of Science in Psychology and Cognitive Neuroscience**
 
+**Expected graduation date:** May 2024
+
+**Awards: **
+
 Presidential scholarship recipient 
 
-Certifications:
+**Certifications:**
 
 BLS CPR certified 
 
-Clubs: 
+**Clubs:** 
 
 1)American Medical Physicians Club 
 
@@ -86,6 +93,8 @@ Course grade: not available
 Social Psychology 
 
 Course grade: not available 
+
+
  
  
 
