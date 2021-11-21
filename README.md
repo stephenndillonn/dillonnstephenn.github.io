@@ -10,7 +10,8 @@ This website is a autobiogrpahy/CV.  Washington DC, 20052 | (551)-556-8627 | dil
 
 # Education 
 
-**George Washington University, The Colleges of Arts and Sciences Bachelors of Science in Psychology and Cognitive Neuroscience**
+**George Washington University, The Colleges of Arts and Sciences Bachelors of Science in Psychology and Cognitive Neuroscience**. 
+9/2020-Present 
 
 **Expected graduation date:** May 2024
 
@@ -30,7 +31,7 @@ Clubs:
 
 3)GW Undergraduate Research Review - Social Science Editor 
 
-**Secaucus High School**	
+**Secaucus High School**.   9/2016-6/2020	
 
 GPA: weighted: 4.03 unweighted: 3.72						             
 
@@ -52,32 +53,32 @@ Extra Curricular Activities:
 
 **Hudson Regional Hospital**
 
-**Emergency Room Volunteer**  								      
+**Emergency Room Volunteer**  	      9/2018 - 3/2020							      
 Attended patients while during the course in the ER by supplying comfort items like food, water, blankets, etc. 
 Assisting nursing staff with running labs, transporting patients to X-Ray, and vitals
 
-**Lab Volunteer**								       
+**Lab Volunteer**	1/2019 - 3/2019							       
 Assisted lab technician in organizing and analyzing lab samples for patient diagnosis 
 Discussed complications, possible causes, diseases, and treatments with analyzed samples. 
 
-**Wound Clinic**   										     
+**Wound Clinic**         6/2019 - 8/2019										     
 Assisted with discharge, running lab samples, and getting appropriate suture kits and dressings 
 
 # Shadowing 
 
-***Dr. Maurizio Miglietta***
+***Dr. Maurizio Miglietta***.     5/2020 - 8/2020
 
 Assisted with discussing Patient diagnosis, treatment, explaining surgical procedures and possible complications.	
 
 # Research
 
-**Dr. Yeung**
+**Dr. Yeung**.      10/2021-present	
 
  Responsible for coding and thematic-analysis of survey responses to analyze relationships between the common perceptions of alcohol use.  
  
 # Work Experience
 
-Red Lobster		
+Red Lobster		4/2021 - 8/2021
 
 Responsible for resolving customer discourse and improving overall restaurant satisfaction and efficiency as a leader in restaurant alcohol and desert sales. 
 # Revelant Classes and Course Work 
