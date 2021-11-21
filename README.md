@@ -14,7 +14,7 @@ This website is a autobiogrpahy/CV.  Washington DC, 20052 | (551)-556-8627 | dil
 
 **Expected graduation date:** May 2024
 
-**Awards: **
+**Awards:**
 
 Presidential scholarship recipient 
 
@@ -22,7 +22,7 @@ Presidential scholarship recipient
 
 BLS CPR certified 
 
-**Clubs:** 
+Clubs: 
 
 1)American Medical Physicians Club 
 
@@ -50,13 +50,13 @@ Extra Curricular Activities:
 # **Clinical Experience**
 
 
-****Hudson Regional Hospital ****
+**Hudson Regional Hospital**
 
 **Emergency Room Volunteer**  								      
 Attended patients while during the course in the ER by supplying comfort items like food, water, blankets, etc. 
 Assisting nursing staff with running labs, transporting patients to X-Ray, and vitals
 
-**Lab Volunteer	**								       
+**Lab Volunteer**								       
 Assisted lab technician in organizing and analyzing lab samples for patient diagnosis 
 Discussed complications, possible causes, diseases, and treatments with analyzed samples. 
 
@@ -65,7 +65,7 @@ Assisted with discharge, running lab samples, and getting appropriate suture kit
 
 # Shadowing 
 
-*Dr. Maurizio Miglietta*
+***Dr. Maurizio Miglietta***
 
 Assisted with discussing Patient diagnosis, treatment, explaining surgical procedures and possible complications.	
 
